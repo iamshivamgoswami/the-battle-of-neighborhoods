@@ -1,0 +1,76 @@
+,Borough,Neighborhood,latitude,longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+3,DWARKA,DABRI VILLAGE,28.6107697,77.09110590789902,0.0,Movie Theater,Department Store,Grocery Store,Women's Store,Food Court,Diner,Donut Shop,Eastern European Restaurant,Electronics Store,English Restaurant
+44,NEW DELHI,ALI GANJ,28.6408936,77.23686909999999,2.0,Hostel,Indian Restaurant,Hotel,Road,Movie Theater,Falafel Restaurant,Food,Flea Market,Fast Food Restaurant,English Restaurant
+45,NEW DELHI,ANSARI NAGAR (EAST),28.644287199999997,77.24418809999999,1.0,Indian Restaurant,Restaurant,Road,Women's Store,Fabric Shop,Food,Flea Market,Fast Food Restaurant,Falafel Restaurant,English Restaurant
+46,NEW DELHI,ANSARI NAGAR (WEST),28.644287199999997,77.24418809999999,1.0,Indian Restaurant,Restaurant,Road,Women's Store,Fabric Shop,Food,Flea Market,Fast Food Restaurant,Falafel Restaurant,English Restaurant
+47,NEW DELHI,ARMY PUBLIC SCHOOL,28.601860100000003,77.12437256286714,3.0,Department Store,Food Truck,Dim Sum Restaurant,Diner,Donut Shop,Eastern European Restaurant,Electronics Store,English Restaurant,Fabric Shop,Falafel Restaurant
+48,NEW DELHI,ASHOK ROAD,28.671604499999997,77.155291,4.0,Train Station,Women's Store,Food Truck,Dim Sum Restaurant,Diner,Donut Shop,Eastern European Restaurant,Electronics Store,English Restaurant,Fabric Shop
+49,NEW DELHI,ATUL GROVER ROAD,28.6242656,77.2232843,2.0,Café,Performing Arts Venue,South Indian Restaurant,Historic Site,Mediterranean Restaurant,Fast Food Restaurant,Coffee Shop,Hotel,BBQ Joint,Bakery
+50,NEW DELHI,AURANGZEB ROAD,28.5465673,77.3069689,2.0,Hotel,Park,Indian Restaurant,Fast Food Restaurant,Food Truck,Diner,Donut Shop,Eastern European Restaurant,Electronics Store,English Restaurant
+51,NEW DELHI,B. K. DUTT COLONY,28.57144105,77.17370880143642,0.0,Multiplex,Coffee Shop,Restaurant,Park,Shopping Mall,Convenience Store,Thai Restaurant,Asian Restaurant,Electronics Store,Comfort Food Restaurant
+52,NEW DELHI,BABA KHADAK SINGH MARG,28.6517178,77.22193879999999,,,,,,,,,,,
+53,NEW DELHI,BABA KHARAG SINGH MARG,28.6517178,77.22193879999999,,,,,,,,,,,
+54,NEW DELHI,BABAR ROAD,28.629319,77.2338834,2.0,Café,Indian Restaurant,Theater,Bakery,Arcade,Art Gallery,Women's Store,Falafel Restaurant,Food & Drink Shop,Food
+55,NEW DELHI,BANGALI MARKET,28.6517178,77.22193879999999,,,,,,,,,,,
+56,NEW DELHI,BANGLA SAHIB ROAD,28.6335305,77.208607,2.0,Bakery,Bengali Restaurant,Hotel,Café,Indian Restaurant,Theater,Miscellaneous Shop,Fabric Shop,Snack Place,Japanese Restaurant
+57,NEW DELHI,BAPA NAGAR,28.60604735,77.2364252840866,0.0,Cafeteria,Park,Art Gallery,Food Truck,Diner,Donut Shop,Eastern European Restaurant,Electronics Store,English Restaurant,Fabric Shop
+58,NEW DELHI,BARAKHAMBA ROAD,28.626951899999998,77.22995,2.0,Theater,Bakery,Art Gallery,Indian Restaurant,Café,Arcade,Concert Hall,Light Rail Station,Hotel Bar,Electronics Store
+59,NEW DELHI,BASANT LANE,28.6364089,77.2164582,2.0,Indian Restaurant,Chinese Restaurant,Café,Bar,Dessert Shop,Hotel,Gym,South Indian Restaurant,Food & Drink Shop,Fast Food Restaurant
+60,NEW DELHI,BHAGWAN DASS ROAD,28.57914175,77.25871661527904,0.0,Bakery,Asian Restaurant,Moving Target,Shopping Mall,Historic Site,Donut Shop,Eastern European Restaurant,Electronics Store,Diner,English Restaurant
+61,NEW DELHI,CHELMSFORD ROAD,28.638503200000002,77.218552,2.0,Platform,Indian Restaurant,Hotel,Dessert Shop,Café,BBQ Joint,Fast Food Restaurant,Falafel Restaurant,Bar,Chinese Restaurant
+62,NEW DELHI,CONNAUGHT PLACE,28.6313827,77.21979240000002,2.0,Indian Restaurant,Café,Bar,Chinese Restaurant,Coffee Shop,Lounge,Italian Restaurant,Pub,South Indian Restaurant,Deli / Bodega
+63,NEW DELHI,COPERNICUS MARG,28.621161199999996,77.2316058,2.0,Concert Hall,Indian Restaurant,Art Gallery,Theater,Fabric Shop,Food & Drink Shop,Food,Flea Market,Fast Food Restaurant,Falafel Restaurant
+64,NEW DELHI,FIROZSHAH ROAD,28.6517178,77.22193879999999,,,,,,,,,,,
+65,NEW DELHI,GOLF LINKS,28.595969800000002,77.2311628,0.0,Golf Course,Spa,Fabric Shop,Food & Drink Shop,Food,Flea Market,Fast Food Restaurant,Falafel Restaurant,Women's Store,Food Truck
+66,NEW DELHI,GURUDWARA RAKAB GANJ ROAD,28.621101399999997,77.2053441,0.0,Smoke Shop,Concert Hall,Spiritual Center,Food & Drink Shop,Historic Site,Diner,Donut Shop,Dim Sum Restaurant,Eastern European Restaurant,Food Court
+67,NEW DELHI,HAILEY ROAD,28.6254321,77.225866,2.0,Hotel Bar,Indian Restaurant,Café,Performing Arts Venue,Historic Site,Dim Sum Restaurant,Diner,Donut Shop,Eastern European Restaurant,Food & Drink Shop
+68,NEW DELHI,HANUMAN ROAD,28.6282756,77.2128306,2.0,Indian Restaurant,Historic Site,Indie Movie Theater,Lounge,Light Rail Station,Café,Italian Restaurant,Gift Shop,Hotel,Pub
+69,NEW DELHI,JANPATH,28.6088598,77.2181649,0.0,History Museum,Boutique,Business Service,Construction & Landscaping,Women's Store,Fast Food Restaurant,Food & Drink Shop,Food,Flea Market,Fabric Shop
+70,NEW DELHI,JASWANT SINGH ROAD,28.6191706,77.22605,1.0,Indian Restaurant,Women's Store,French Restaurant,Diner,Donut Shop,Eastern European Restaurant,Electronics Store,English Restaurant,Fabric Shop,Falafel Restaurant
+71,NEW DELHI,JOR BAGH,28.676607899999997,77.1586915,,,,,,,,,,,
+72,NEW DELHI,K G MARG,28.5707896,77.17437151948845,0.0,Multiplex,Coffee Shop,Shopping Mall,Thai Restaurant,Restaurant,Asian Restaurant,Comfort Food Restaurant,Convenience Store,Electronics Store,Eastern European Restaurant
+73,NEW DELHI,KAKA NAGAR,28.6028192,77.23869564906845,2.0,Indian Restaurant,Hotel,Italian Restaurant,Gaming Cafe,North Indian Restaurant,Café,Convenience Store,Golf Course,Snack Place,Women's Store
+74,NEW DELHI,KALI BARI MARG,28.6299273,77.20149659999998,0.0,Fried Chicken Joint,Theater,Women's Store,Fabric Shop,Food & Drink Shop,Food,Flea Market,Fast Food Restaurant,Falafel Restaurant,English Restaurant
+75,NEW DELHI,KASHTURBA GANDHI MARG,28.6517178,77.22193879999999,,,,,,,,,,,
+76,NEW DELHI,KHAN MARKET,28.6001354,77.22649064087364,2.0,Café,Coffee Shop,Chinese Restaurant,Bar,Bookstore,Asian Restaurant,Indian Restaurant,Restaurant,Mexican Restaurant,Italian Restaurant
+77,NEW DELHI,KIDWAI NAGAR (EAST),28.5723021,77.2141572,0.0,Clothing Store,Metro Station,Soccer Field,Falafel Restaurant,Food & Drink Shop,Food,Flea Market,Fast Food Restaurant,Women's Store,Food Truck
+78,NEW DELHI,KIDWAI NAGAR (WEST),28.5717018,77.2045946,0.0,Northeast Indian Restaurant,Dim Sum Restaurant,Market,Restaurant,Spa,Women's Store,Falafel Restaurant,Flea Market,Fast Food Restaurant,English Restaurant
+79,NEW DELHI,KIDWAI NAGAR WEST,28.5717018,77.2045946,0.0,Northeast Indian Restaurant,Dim Sum Restaurant,Market,Restaurant,Spa,Women's Store,Falafel Restaurant,Flea Market,Fast Food Restaurant,English Restaurant
+80,NEW DELHI,KIDWAI NAGAR(EAST),28.5723021,77.2141572,0.0,Clothing Store,Metro Station,Soccer Field,Falafel Restaurant,Food & Drink Shop,Food,Flea Market,Fast Food Restaurant,Women's Store,Food Truck
+81,NEW DELHI,LAXMI BAI NAGAR,28.576794,77.2062778,1.0,Northeast Indian Restaurant,Train Station,Market,Restaurant,Indian Restaurant,Fabric Shop,Food,Flea Market,Fast Food Restaurant,Falafel Restaurant
+82,NEW DELHI,LODHI COLONY,28.586203,77.22685759999999,0.0,Diner,Modern European Restaurant,Café,Restaurant,Food Court,Chinese Restaurant,Sandwich Place,Shopping Mall,Japanese Restaurant,Italian Restaurant
+83,NEW DELHI,LODHI ESTATE,28.594301100000006,77.22609378292776,0.0,Food Court,Women's Store,Food Truck,Dim Sum Restaurant,Diner,Donut Shop,Eastern European Restaurant,Electronics Store,English Restaurant,Fabric Shop
+84,NEW DELHI,MAHARISHI RAMAN MARG,28.6003124,77.2284262,2.0,Café,Coffee Shop,Chinese Restaurant,Bar,Indian Restaurant,Asian Restaurant,Bookstore,Mediterranean Restaurant,Dessert Shop,Eastern European Restaurant
+85,NEW DELHI,MAN SINGH ROAD,28.606828399999998,77.2244467,2.0,Hotel Bar,Chinese Restaurant,Restaurant,Snack Place,Pool,Japanese Restaurant,Indian Restaurant,Electronics Store,English Restaurant,Fabric Shop
+86,NEW DELHI,MANDIR MARG,28.524660100000002,77.216217,2.0,Indian Restaurant,Café,Clothing Store,Asian Restaurant,Lounge,Restaurant,Multiplex,Chinese Restaurant,Hotel,American Restaurant
+87,NEW DELHI,MAULANA AZAD ROAD,28.6100178,77.22170849999999,0.0,Park,History Museum,Construction & Landscaping,Women's Store,Food Court,Diner,Donut Shop,Eastern European Restaurant,Electronics Store,English Restaurant
+88,NEW DELHI,MOTHER TERESSA CRESCENT,28.622180199999995,77.28685157661627,0.0,Bus Station,ATM,Track Stadium,Business Service,Convenience Store,Fast Food Restaurant,Food Court,Food & Drink Shop,Food,Flea Market
+89,NEW DELHI,NAUROJI NAGAR,28.5685678,77.1934447,2.0,Hotel,Snack Place,Indian Restaurant,Fast Food Restaurant,Falafel Restaurant,Food Court,Food & Drink Shop,Food,Flea Market,Fabric Shop
+90,NEW DELHI,NORTH AVENUE,28.6235903,77.1999895,0.0,Smoke Shop,Theater,Food & Drink Shop,Asian Restaurant,Donut Shop,Eastern European Restaurant,Diner,Electronics Store,Food Truck,English Restaurant
+91,NEW DELHI,PALIKA KUNJ,28.63075335,77.2189261155733,2.0,Indian Restaurant,Café,Bar,Chinese Restaurant,Coffee Shop,Lounge,Deli / Bodega,South Indian Restaurant,Italian Restaurant,Pub
+92,NEW DELHI,PALIKA NIWAS,28.63075335,77.2189261155733,2.0,Indian Restaurant,Café,Bar,Chinese Restaurant,Coffee Shop,Lounge,Deli / Bodega,South Indian Restaurant,Italian Restaurant,Pub
+93,NEW DELHI,PANCHKUIAN ROAD,28.639685399999998,77.2079912,2.0,Hotel,Indian Restaurant,Sandwich Place,Bakery,Food,Breakfast Spot,Snack Place,Light Rail Station,Pizza Place,Bar
+94,NEW DELHI,PANDARA PARK,28.606773699999998,77.2294161,1.0,Indian Restaurant,Park,Smoke Shop,Playground,Food & Drink Shop,Vegetarian / Vegan Restaurant,Ice Cream Shop,Cafeteria,Restaurant,Snack Place
+95,NEW DELHI,PANDARA ROAD,28.6059693,77.2306902,1.0,Indian Restaurant,Restaurant,Smoke Shop,Chinese Restaurant,Park,Food & Drink Shop,Vegetarian / Vegan Restaurant,Ice Cream Shop,Metro Station,Cafeteria
+96,NEW DELHI,PESHWA ROAD,28.6350729,77.20339840000001,0.0,Fabric Shop,BBQ Joint,Fast Food Restaurant,Theater,Kebab Restaurant,Food & Drink Shop,Food,Flea Market,Falafel Restaurant,Women's Store
+97,NEW DELHI,PILLANGI VILLAGE,28.6517178,77.22193879999999,,,,,,,,,,,
+98,NEW DELHI,PRESIDENT ESTATE,28.6208562,77.20040829999999,0.0,Smoke Shop,Food & Drink Shop,Garden,Asian Restaurant,Falafel Restaurant,Food Court,Food,Flea Market,Fast Food Restaurant,Fabric Shop
+99,NEW DELHI,PRITHVI RAJ ROAD,28.588740299999998,77.2235118,0.0,Chinese Restaurant,Pedestrian Plaza,Italian Restaurant,Performing Arts Venue,Diner,Middle Eastern Restaurant,Food Court,Japanese Restaurant,Shopping Mall,Park
+100,NEW DELHI,PURANA QUILLA ROAD,28.6092855,77.2435969,2.0,Hotel,Café,Museum,Zoo,History Museum,Historic Site,Gym / Fitness Center,Gym,Diner,Donut Shop
+101,NEW DELHI,RACE COURSE,28.597351300000003,77.21109670000001,0.0,Coffee Shop,Metro Station,Gym / Fitness Center,Women's Store,Food & Drink Shop,Food,Flea Market,Fast Food Restaurant,Falafel Restaurant,Fabric Shop
+102,NEW DELHI,RACE COURSE ROAD,28.597351300000003,77.21109670000001,0.0,Coffee Shop,Metro Station,Gym / Fitness Center,Women's Store,Food & Drink Shop,Food,Flea Market,Fast Food Restaurant,Falafel Restaurant,Fabric Shop
+103,NEW DELHI,RAJA BAZAR,27.1940261,77.9970749,0.0,Train Station,Pharmacy,Diner,Sandwich Place,Tea Room,Women's Store,Fabric Shop,Food,Flea Market,Fast Food Restaurant
+104,NEW DELHI,RAMA KRISHNA ASHRAM MARG,28.664739,77.19591694213649,0.0,Mini Golf,Train Station,Photography Studio,Light Rail Station,Fabric Shop,Food,Flea Market,Fast Food Restaurant,Falafel Restaurant,Women's Store
+105,NEW DELHI,RAVINDRA NAGAR,28.6517178,77.22193879999999,,,,,,,,,,,
+106,NEW DELHI,SAFDARJUNG AIRPORT,28.5851893,77.2062426432913,2.0,Indian Restaurant,Chinese Restaurant,Asian Restaurant,Women's Store,Fast Food Restaurant,Food Court,Food & Drink Shop,Food,Flea Market,Fabric Shop
+107,NEW DELHI,SAROJINI NAGAR,28.574157500000002,77.1953703,2.0,Indian Restaurant,Fast Food Restaurant,Women's Store,Restaurant,Market,Dessert Shop,Pizza Place,Department Store,BBQ Joint,Bakery
+108,NEW DELHI,SHAHEED BHAGAT SINGH MARG,28.613359399999997,77.10923509999999,0.0,Department Store,Chinese Restaurant,Market,Women's Store,Food Truck,Donut Shop,Eastern European Restaurant,Electronics Store,English Restaurant,Fabric Shop
+109,NEW DELHI,SIKANDRA ROAD,28.6255564,77.2341897,2.0,Theater,Café,Art Gallery,Indian Restaurant,Bakery,Train Station,Arcade,Light Rail Station,Concert Hall,Women's Store
+110,NEW DELHI,SOUTH AVENUE,28.608302399999996,77.19907629999999,0.0,Department Store,Planetarium,Tea Room,English Restaurant,Food,Flea Market,Fast Food Restaurant,Falafel Restaurant,Fabric Shop,Electronics Store
+111,NEW DELHI,SOUTH END LANE,28.4078327,77.0467223,2.0,Bakery,Brewery,Pizza Place,Sandwich Place,Shopping Mall,Coffee Shop,Comfort Food Restaurant,Italian Restaurant,Café,Movie Theater
+112,NEW DELHI,SUJAN SINGH PARK,28.599261199999997,77.2285545,2.0,Café,Coffee Shop,Chinese Restaurant,Bar,Bookstore,Asian Restaurant,Indian Restaurant,Restaurant,Pub,French Restaurant
+113,NEW DELHI,SUNEHRI BAGH,28.6077227,77.2119713,0.0,Government Building,Women's Store,Food Truck,Dim Sum Restaurant,Diner,Donut Shop,Eastern European Restaurant,Electronics Store,English Restaurant,Fabric Shop
+114,NEW DELHI,TAL KATORA ROAD,28.6517178,77.22193879999999,,,,,,,,,,,
+115,NEW DELHI,TEEN MURTI MARG,28.6028685,77.20216440000002,0.0,History Museum,Planetarium,Women's Store,Food Court,Dim Sum Restaurant,Diner,Donut Shop,Eastern European Restaurant,Electronics Store,English Restaurant
+116,NEW DELHI,TEES JANUARY MARG,28.6023922,77.21456500000001,0.0,Hotel Bar,Smoke Shop,Mediterranean Restaurant,North Indian Restaurant,History Museum,Clothing Store,Chinese Restaurant,Breakfast Spot,Hotel,Bakery
+117,NEW DELHI,TILAK MARG,28.6201115,77.23662420000001,2.0,Hotel,Art Gallery,Food Truck,Dim Sum Restaurant,Diner,Donut Shop,Eastern European Restaurant,Electronics Store,English Restaurant,Fabric Shop
